@@ -16,3 +16,8 @@ Console.WriteLine("hola" + " " + nombre);
 Console.WriteLine("hola " + nombre);
 
 Console.WriteLine("hola " + nombre + " tienes " + edad + " años y mides " + altura + " metros");
+
+ClsEstudiante estudiante = new ClsEstudiante();
+
+ClsEstudiante estudiante2 = new ClsEstudiante("EST1234", "Anita");
+

@@ -14,3 +14,5 @@ Console.WriteLine(altura);
 // Concatenar cadenas
 Console.WriteLine("hola" + " " + nombre);
 Console.WriteLine("hola " + nombre);
+
+Console.WriteLine("hola " + nombre + " tienes " + edad + " años y mides " + altura + " metros");
